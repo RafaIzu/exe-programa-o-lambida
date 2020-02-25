@@ -1,0 +1,5 @@
+Cirno,cirno@gmail.com,999.99
+Momiji,ahooo@gmail.com,3000.00
+Marisa,marisa@gmail.com,5000.00
+Reimu,hakurei@gmail.com,3000.00
+Tenshi,tenshi@gmail.com,9000.00
